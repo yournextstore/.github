@@ -6,10 +6,10 @@
 	<picture>
 		<source
 			media="(prefers-color-scheme: dark)"
-			srcSet="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=459751&theme=dark"
+			srcSet="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1009314&theme=dark"
 		/>
 		<img
-			src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=459751&theme=light"
+			src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1009314&theme=light"
 			alt="Your&#0032;Next&#0032;Store - E&#0045;Commerce&#0032;with&#0032;Stripe&#0032;as&#0032;the&#0032;backend | Product Hunt"
 		/>
 	</picture>
